@@ -1,0 +1,10 @@
+D:\Document\C#\LTC#\DemoCRUD\bin\Debug\DemoCRUD.exe.config
+D:\Document\C#\LTC#\DemoCRUD\bin\Debug\DemoCRUD.exe
+D:\Document\C#\LTC#\DemoCRUD\bin\Debug\DemoCRUD.pdb
+D:\Document\C#\LTC#\DemoCRUD\obj\Debug\DemoCRUD.csprojAssemblyReference.cache
+D:\Document\C#\LTC#\DemoCRUD\obj\Debug\DemoCRUD.Form1.resources
+D:\Document\C#\LTC#\DemoCRUD\obj\Debug\DemoCRUD.Properties.Resources.resources
+D:\Document\C#\LTC#\DemoCRUD\obj\Debug\DemoCRUD.csproj.GenerateResource.cache
+D:\Document\C#\LTC#\DemoCRUD\obj\Debug\DemoCRUD.csproj.CoreCompileInputs.cache
+D:\Document\C#\LTC#\DemoCRUD\obj\Debug\DemoCRUD.exe
+D:\Document\C#\LTC#\DemoCRUD\obj\Debug\DemoCRUD.pdb
